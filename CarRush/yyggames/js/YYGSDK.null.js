@@ -1,0 +1,7 @@
+YYGSDK = function () {
+
+}
+
+const YYG= {
+
+}
